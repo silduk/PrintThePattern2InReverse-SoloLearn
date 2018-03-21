@@ -1,5 +1,8 @@
 ﻿/*
-Print the Pattern 2 in reverse
+Print the Pattern 2 in reverse from Coding Challenges
+by Silvio Duka
+
+Last modified date: 2018-03-13
 
 Write a program to output the following patterns given the number of rows: 
 Pattern #1 
@@ -166,5 +169,3 @@ namespace PrintThePattern
         }
     }
 }
-
-//Console.WriteLine($"{string.Concat(Enumerable.Repeat(i.ToString(), i))}"); //Too easy... :-D
